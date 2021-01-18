@@ -5,7 +5,9 @@
   "keywords": [
     "laravel",
     "user",
-    "activity"
+    "activity",
+    "laravel user actvity",
+    "laravel request log"
   ],
   "type": "library",
   "authors": [
